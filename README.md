@@ -81,15 +81,39 @@ print("Root Mean Squared Error:", rmse)
 
 ## Output:
 ![Screenshot 2024-08-29 194702](https://github.com/user-attachments/assets/1b416b49-683a-41df-85cf-af0ad4fc6d66)
+
+
+
 ![Screenshot 2024-08-29 194714](https://github.com/user-attachments/assets/76dd3e8c-4413-4fa2-bf0b-118b25b73360)
+
+
+
 ![Screenshot 2024-08-29 194722](https://github.com/user-attachments/assets/9a43d47c-975f-4470-853a-1920f77e9515)
+
+
+
 ![Screenshot 2024-08-29 194731](https://github.com/user-attachments/assets/d8b6cfc7-36bd-4814-8d69-6d44a7652fcc)
+
+
+
 ![Screenshot 2024-08-29 194739](https://github.com/user-attachments/assets/4982ca03-01e2-47cd-b853-488028700564)
+
+
 ![Screenshot 2024-08-29 194755](https://github.com/user-attachments/assets/496ed807-1353-4910-ab79-aca7acb96ef3)
+
+
 ![Screenshot 2024-08-29 194802](https://github.com/user-attachments/assets/6b00ec72-fab1-4d2d-9e28-8110225f1588)
+
+
 ![Screenshot 2024-08-29 194811](https://github.com/user-attachments/assets/95befbee-90b2-4e1e-a24d-baa0158906df)
+
+
 ![Screenshot 2024-08-29 194817](https://github.com/user-attachments/assets/4357dad0-0ee0-4f67-ac98-4e48406c39a3)
+
+
 ![Screenshot 2024-08-29 194824](https://github.com/user-attachments/assets/56d7f72e-306f-45c2-add8-2d66aacd63cb)
+
+
 ![Screenshot 2024-08-29 194832](https://github.com/user-attachments/assets/f2a01ead-ee45-4b91-91dc-55660f6c16aa)
 
 
